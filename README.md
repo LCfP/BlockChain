@@ -1,3 +1,3 @@
 # BlockChain
 
-Project about blockchain
+Project about blockchain for the Learning Commmunity for Programming.
