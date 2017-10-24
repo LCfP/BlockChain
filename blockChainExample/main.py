@@ -1,5 +1,10 @@
 from Block import *
 
+"""
+Simple blockchain example based on the following tutorial:
+https://medium.com/crypto-currently/lets-build-the-tiniest-blockchain-e70965a248b
+"""
+
 # Create the blockchain and add the genesis block
 blockchain = [Block.create_genesis_block()]
 previous_block = blockchain[0]
